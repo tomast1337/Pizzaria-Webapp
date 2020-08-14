@@ -8,7 +8,7 @@
           <element id="module-output" name="SistemaWebPizza" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+          <element id="library" level="project" name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2 / PostgreSQL JDBC 4.2" />
         </element>
       </element>
     </root>

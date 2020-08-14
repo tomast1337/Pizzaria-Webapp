@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
+  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2 / PostgreSQL JDBC 4.2" type="JAX-WS">
     <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/FastInoset.jar!/" />
@@ -23,6 +23,7 @@
       <root url="jar://$PROJECT_DIR$/lib/stax2-api.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/woodstox-core-asl.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/postgresql-42.2.14.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
